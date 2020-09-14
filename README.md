@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Check [https://pablosz.tech/portfolio](https://pablosz.tech/portfolio) to check some of my projects,
+
 <!--
 **PabloSzx/PabloSzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
